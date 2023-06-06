@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haya Abdullah</h1>
-<h3 align="center">Junior Computer Science Student 👩🏻‍💻 / Graphic Designer 👩🏻‍🎨</h3>
+<h3 align="center">Junior Computer Science Student 👩🏻‍💻 | Graphic Designer 👩🏻‍🎨</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
